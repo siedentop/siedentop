@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Christoph. I write software in C++, Python. I currently enjoy learning Rust as well as exploring other technologies and languages.
+Hi, my name is Christoph. I write software in Rust, C++, and Python.
 
 * My blog can be found here: https://siedentop.dev
-* Contact me on Twitter: https://twitter.com/chsiedentop
